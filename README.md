@@ -1,6 +1,8 @@
 # Concentration-Game
 A Concentration Game For iOS 
 
+It's a simple game that the goal is find all pairs with minimum card flips. The less you flip card the more score you'll get.
+
 Basic Screenshots Below;
 
 > Initial state.
