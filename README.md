@@ -17,3 +17,4 @@ Basic Screenshots Below;
 
 ![](https://github.com/Abdulhalik/Concentration-Game/blob/master/GH_Sources/Screen%20Shot%202019-12-06%20at%2014.46.54.png)
 
+For more: visit Stanford Open Courses / Swift Course
